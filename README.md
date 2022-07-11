@@ -22,3 +22,6 @@ that this command includes message and title). Messages are ASCII strings of arb
 - PubAck: This command is sent from the server side to confirm that the Publish operation is successful.
 - Pong: This command is sent from the server side in response to the Ping message from client
 
+## Persian project description
+
+[message-broker.pdf](https://github.com/maedemir/message-broker/files/9087055/message-broker.pdf)
